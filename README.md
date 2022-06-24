@@ -1,5 +1,5 @@
 # selenium-tests
-SELENIUM IDE PROJECT FILE INCOVENIENCE
+SELENIUM IDE PROJECT FILE INCONVENIENCE
 
 In order to use test from repository:
 
