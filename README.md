@@ -1,6 +1,7 @@
 # selenium-tests
 SELENIUM IDE PROJECT FILE INCOVENIENCE
 In order to use test from repository:
+
     1. Open as Raw
     
     2. Download as .txt
